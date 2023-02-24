@@ -1,4 +1,4 @@
-# Clonación de la interfaz de Google creada con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO 
+# Clonación de la interfaz de Google con HTML5 y CSS3 
 ## ÍNDICE 
 
 * [1. Introducción](#) 
@@ -24,4 +24,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3. 
 
 ## 4. Link a Demo 
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://google-clonacion02.netlify.app/)
